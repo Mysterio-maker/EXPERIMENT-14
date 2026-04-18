@@ -2,9 +2,9 @@
 
 ## Data Normalization and Data Type Conversion using Python
 
-**Name:** Dev Anand
-**PRN:** 25070123039
-**Batch:** A2 ENTC
+**Name:** AMEY WAGHMARE
+**PRN:** 25070123009
+**Batch:** A1 ENTC
 
 ---
 
